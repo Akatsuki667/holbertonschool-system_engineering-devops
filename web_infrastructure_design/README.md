@@ -7,3 +7,6 @@
 
 ## 1. Distributed web infrastructure
 - On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com.
+
+## 2. Secured and monitored web infrastructure
+- On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com, it must be secured, serve encrypted traffic, and be monitored.
